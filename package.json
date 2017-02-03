@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nodespeak",
+        "scope": null,
+        "escapedName": "nodespeak",
+        "name": "nodespeak",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Administrator\\Desktop"
+    ]
+  ],
+  "_from": "nodespeak@latest",
+  "_id": "nodespeak@0.0.3",
+  "_inCache": true,
+  "_location": "/nodespeak",
+  "_nodeVersion": "6.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nodespeak-0.0.3.tgz_1462843407857_0.8281154748983681"
+  },
+  "_npmUser": {
+    "name": "jochemstoel",
+    "email": "jochemstoel@gmail.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodespeak",
+    "scope": null,
+    "escapedName": "nodespeak",
+    "name": "nodespeak",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodespeak/-/nodespeak-0.0.3.tgz",
+  "_shasum": "d15c797e963f272ab18c7f717e26f995ba211d48",
+  "_shrinkwrap": null,
+  "_spec": "nodespeak",
+  "_where": "C:\\Users\\Administrator\\Desktop",
+  "author": {
+    "name": "Jochem Stoel",
+    "email": "jochemstoel@gmail.com",
+    "url": "http://jochemstoel.github.io"
+  },
+  "dependencies": {},
+  "description": "Super easy way to use Text to Speech on Windows.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d15c797e963f272ab18c7f717e26f995ba211d48",
+    "tarball": "https://registry.npmjs.org/nodespeak/-/nodespeak-0.0.3.tgz"
+  },
+  "keywords": [
+    "windows",
+    "text",
+    "speech",
+    "synthesis",
+    "sythesizer"
+  ],
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jochemstoel",
+      "email": "jochemstoel@gmail.com"
+    }
+  ],
+  "name": "nodespeak",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.5"
+}
